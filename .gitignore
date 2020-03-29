@@ -1,0 +1,8 @@
+# Para los archivos innecesarios de enterprise architech
+*.ldb
+
+# Para los archivos innecesarios de Microsoft Office word
+~$*.doc*
+
+#Archivo Word Auto Backup
+Backup of *.doc*
